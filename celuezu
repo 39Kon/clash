@@ -1,6 +1,0 @@
-;设置规则标志位
-ruleset= 🍎 Apple,https://raw.githubusercontent.com/39Kon/clash/main/bilibili.list?token=GHSAT0AAAAAAB2P73XBFTR6UNBUTN4IXRX4Y23VERA
-;设置规则标志位
-
-;设置分组标志位
-custom_proxy_group=
